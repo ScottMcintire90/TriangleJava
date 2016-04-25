@@ -1,0 +1,27 @@
+<div class="maincontent">
+  <div class="whitebox">
+    <div class="topbar">
+      <p>. . .</p>
+    </div>
+
+
+  <div class="container">
+
+
+    <p>Your triangle's length of side 1 is $myTriangle.getSide1()</p>
+    <p>Your triangle's length of side 2 is $myTriangle.getSide2()</p>
+    <p>Your triangle's length of side 3 is $myTriangle.getSide3()</p>
+
+    #if ($myTriangle.equilateralCheck())
+      <p>Your triangle is equilateral</p>
+    #elseif ($myTriangle.isoscelesCheck())
+      <p>Your triangle is isosceles</p>
+    #elseif ($myTriangle.scaleneCheck())
+      <p>Your triangle is scalene</p>
+    #else
+      <p>That's not a triangle</p>
+    #end
+
+
+</div>
+</div>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="triangleTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2016-04-25T16:12:26" hostname="epicodus-42.local" time="0.001">
+  <properties/>
+  <testcase name="scaleneCheck_checksIfTriangleIsScalene_true" classname="triangleTest" time="0.0"/>
+  <testcase name="isoscelesCheck_checksIfTriangleIsIsosceles_true" classname="triangleTest" time="0.0"/>
+  <testcase name="newTriangle_instantiatesCorrectly" classname="triangleTest" time="0.0"/>
+  <testcase name="getLength_getsTriangleSide1_2" classname="triangleTest" time="0.0"/>
+  <testcase name="getLength_getsTriangleSide2_3" classname="triangleTest" time="0.0"/>
+  <testcase name="getLength_getsTriangleSide3_5" classname="triangleTest" time="0.0"/>
+  <testcase name="equilateralCheck_checksIfTriangleIsEquilateral_true" classname="triangleTest" time="0.0"/>
+  <testcase name="scaleneCheck_checksIfTriangleIsNotTriangle_false" classname="triangleTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
